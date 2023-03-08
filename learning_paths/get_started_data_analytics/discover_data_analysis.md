@@ -145,3 +145,4 @@ As a data analyst you are responsible for managing assets, overseeing the sharin
 security measures. The management of content helps foster collaboration between teams and individuals.
 
 Proper management of data can reduce data silos in organisations, therefore reducing data duplication which could cause latency. 
+
